@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.9ce16d52.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.90ffdeef.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.90ffdeef.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.92f3f943.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.92f3f943.js.map",
+    "static/js/2.e93e31b6.chunk.js": "/reactwebsite/static/js/2.e93e31b6.chunk.js",
+    "static/js/2.e93e31b6.chunk.js.map": "/reactwebsite/static/js/2.e93e31b6.chunk.js.map",
+    "static/js/3.f1ba8e98.chunk.js": "/reactwebsite/static/js/3.f1ba8e98.chunk.js",
+    "static/js/3.f1ba8e98.chunk.js.map": "/reactwebsite/static/js/3.f1ba8e98.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/main.9ce16d52.chunk.css.map": "/reactwebsite/static/css/main.9ce16d52.chunk.css.map",
+    "static/js/2.e93e31b6.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.e93e31b6.chunk.js.LICENSE.txt",
+    "static/media/Tanveer.28224dda.jpg": "/reactwebsite/static/media/Tanveer.28224dda.jpg",
+    "static/media/about.c3efa1cb.jpg": "/reactwebsite/static/media/about.c3efa1cb.jpg",
+    "static/media/gfb.675c894e.jpg": "/reactwebsite/static/media/gfb.675c894e.jpg",
+    "static/media/haider.e1cf9c7f.jpg": "/reactwebsite/static/media/haider.e1cf9c7f.jpg",
+    "static/media/v-min.554acabc.png": "/reactwebsite/static/media/v-min.554acabc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f3f943.js",
+    "static/js/2.e93e31b6.chunk.js",
+    "static/css/main.9ce16d52.chunk.css",
+    "static/js/main.90ffdeef.chunk.js"
+  ]
+}
